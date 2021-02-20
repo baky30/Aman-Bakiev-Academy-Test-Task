@@ -1,2 +1,2 @@
-# Aman-Bakiev-Academy-Test-Task
+Intervals-Test-Task
 
